@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akan Name Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <section class="landing">
+        <div class="landing-content">
+            <h1>Akan Name Generator</h1>
+            <p>
+                Discover your Akan name based on the day of the week you were born
+                and your gender according to Ghanaian culture.
+            </p>
+            <p>This project celebrates Ghanaian naming traditions.</p>
+            <a href="#generator" class="cta-btn">Get Started</a>
+        </div>
+    </section>
+
+    <section id="generator" class="container">
+        <h2>Find Your Akan Name</h2>
+
+        <p class="description">
+            This generator calculates the day of the week you were born
+            and assigns you an Akan name based on Ghanaian tradition.
+        </p>
+
+        <form id="akanForm">
+            <label for="day">Day</label>
+            <input type="number" id="day" placeholder="DD" required min="1" max="31">
+
+            <label for="month">Month</label>
+            <input type="number" id="month" placeholder="MM" required min="1" max="12">
+
+            <label for="year">Year</label>
+            <input type="number" id="year" placeholder="YYYY" required>
+
+            <label>Gender</label>
+            <div class="gender">
+                <input type="radio" id="male" name="gender" value="male" required>
+                <label for="male">Male</label>
+
+                <input type="radio" id="female" name="gender" value="female" required>
+                <label for="female">Female</label>
+            </div>
+
+            <button type="submit">Generate Akan Name</button>
+        </form>
+
+        <div id="result"></div>
+    </section>
+
+    <script src="generator.js"></script>
+</body>
+</html>
