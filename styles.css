@@ -1,0 +1,58 @@
+body{
+    background-color: lightgrey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+    max-width: 300px;
+    background-color:aquamarine;
+    margin: 60px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    color : black
+}
+
+.description{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+label{
+    margin-top: 15px;
+    display : block;
+}
+
+input[type="number"]{
+    width: 100%;
+    margin-top: 5px;
+    padding: 8px;
+}
+
+.gender{
+    margin-top: 5px;
+}
+
+button{
+    color: white;
+    background-color: lightskyblue;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+button:hover{
+    background-color: yellow;
+}
+
+.result{
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
