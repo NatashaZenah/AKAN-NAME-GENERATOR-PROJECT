@@ -1,7 +1,7 @@
 
 # AKAN NAME GENERATOR
 
-## Author:Natasha Okoth
+## Author: Natasha Okoth
 
 ## Table Of Contents
 1. Project Description
@@ -18,23 +18,23 @@
 
 ---
 ## Project Description
-The Akan Name Generator is a website that is used to calculate the day of the week one was born and gives them an Akan name (Ghanaian name) which differ depending on gender.
+The Akan Name Generator is a website that is used to calculate the day of the week one was born and gives them an Akan name (Ghanaian name) which differs depending on gender.
 
-The website allows users to input data which is(birth date,gender) and then shows the user their respective Akan name.
+The website allows users to input data, which is their birth date and gender, and then shows the user their respective Akan name.
 
 ---
 ## Live Site
-
+https://natashazenah.github.io/AKAN-NAME-GENERATOR-PROJECT/
 
 ---
 ## Installation Guide
-1. Clone repository to yourcomputer
+1. Clone the repository to your computer
 
 2. Open the project folder in Visual Studio Code or any other code editor
 
 3. Open 'index.html' by pressing the 'Go Live' button that is on the bottom right
 
-4. Enter birth date, month, year and your gender
+4. Enter birth date, month, year, and your gender
 
 5. Submit the form to view your Akan name
 
