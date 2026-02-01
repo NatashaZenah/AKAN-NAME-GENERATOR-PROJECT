@@ -16,7 +16,9 @@
 
 6. Contact Information
 
-7. License
+7. Conclusion
+
+8. License
 
 ---
 ## Project Description
@@ -57,6 +59,10 @@ https://natashazenah.github.io/AKAN-NAME-GENERATOR-PROJECT/
 ## Contact Information
 Email:natasha.okoth@student.moringaschool.com
 
+---
+## Conclusion
+- This project is used to demonstrate the basics of JavaScript
+  
 ---
 ## License
 MIT License
