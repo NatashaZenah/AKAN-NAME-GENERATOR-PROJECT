@@ -10,17 +10,19 @@
 
 3. Features
 
-4. Installation Guide
+4. Behavior Driven Development
 
-5. Technologies Used
+5. Installation Guide
 
-6. Contact Information
+6. Technologies Used
 
-7. Conclusion
+7. Contact Information
 
-8. Acknowledgments. 
+8. Conclusion
 
-9. License
+9. Acknowledgments. 
+
+10. License
 
 ---
 ## Project Description
@@ -37,6 +39,22 @@ https://natashazenah.github.io/AKAN-NAME-GENERATOR-PROJECT/
 - Gender based Akan Naming
 
 - Data Validation
+
+---
+## Behavior Driven Development (BDD)
+
+- If the user enters a valid date and gender
+  Then the system displays the correct Akan name
+
+- If the user submits empty or invalid input
+  Then the system shows an alert
+
+- If the user does not select a gender
+  Then the system prompts gender selection
+
+- If the user submits the form again
+  Then the previous result is cleared and a new one is shown
+
 ---
 ## Installation Guide
 1. Clone the repository to your computer
