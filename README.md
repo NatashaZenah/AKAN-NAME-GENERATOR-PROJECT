@@ -18,7 +18,9 @@
 
 7. Conclusion
 
-8. License
+8. Acknowledgments. 
+
+9. License
 
 ---
 ## Project Description
@@ -62,8 +64,12 @@ Email:natasha.okoth@student.moringaschool.com
 ---
 ## Conclusion
 - This project is used to demonstrate the basics of JavaScript
-  
+
 ---
+## Acknowledgements
+- Inspired by Ghanaian naming culture
+---
+
 ## License
 MIT License
 
