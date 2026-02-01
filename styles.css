@@ -28,6 +28,10 @@ h2{
     font-family: 'Times New Roman', Times, serif;
 }
 
+form{
+    margin: 0 auto;
+}
+
 label{
     margin-top: 15px;
     display : block;
