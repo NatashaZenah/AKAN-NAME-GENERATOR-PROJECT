@@ -29,6 +29,7 @@ h2{
 label{
     margin-top: 15px;
     display : block;
+    font-weight: bold;
 }
 
 input[type="number"]{
