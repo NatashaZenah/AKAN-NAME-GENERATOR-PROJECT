@@ -8,6 +8,8 @@ document.addEventListener("DOMContentLoaded", function () {
   form.addEventListener("submit", function (e) {
     e.preventDefault();
 
+     result.textContent = ""
+    
     const dayValue = document.getElementById("day").value;
     const monthValue = document.getElementById("month").value;
     const yearValue = document.getElementById("year").value;
