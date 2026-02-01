@@ -8,13 +8,15 @@
 
 2. Live Site
 
-3. Installation Guide
+3. Features
 
-4. Technologies Used
+4. Installation Guide
 
-5. Contact Information
+5. Technologies Used
 
-6. License
+6. Contact Information
+
+7. License
 
 ---
 ## Project Description
@@ -26,6 +28,11 @@ The website allows users to input data, which is their birth date and gender, an
 ## Live Site
 https://natashazenah.github.io/AKAN-NAME-GENERATOR-PROJECT/
 
+---
+## Features
+- Gender based Akan Naming
+
+- Data Validation
 ---
 ## Installation Guide
 1. Clone the repository to your computer
